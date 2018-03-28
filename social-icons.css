@@ -1,0 +1,315 @@
+﻿body {
+}
+
+.social-icons > ul {
+    overflow: hidden;
+}
+
+    .social-icons > ul > li {
+        position: relative;
+        padding: 0;
+        border: 1px solid rgba(0, 0, 0, 0.2);
+        overflow: hidden;
+    }
+
+
+[class^="zoc-"]:before,
+[class*=" zoc-"]:before {
+    font-size: 11px;
+}
+
+.social-icons [class^="zoc-"],
+.social-icons [class*=" zoc-"] {
+    margin-top: 0px;
+    color: #444;
+    float: left;
+}
+
+[class$="-metro-but-16"],
+[class*="-metro-but-16"] {
+    -webkit-transform: translateZ(0);
+    -moz-transform: translateZ(0);
+    transform: translateZ(0);
+}
+
+    [class$="-metro-but-16"] a,
+    [class*="-metro-but-16"] a {
+        float: left;
+        position: relative;
+        padding: 8px;
+        line-height: 15px;
+    }
+
+    [class$="-metro-but-16"] .mask-background,
+    [class*="-metro-but-16"] .mask-background {
+        display: none;
+    }
+
+    [class$="-metro-but-16"]:hover .mask-background,
+    [class*="-metro-but-16"]:hover .mask-background {
+        display: block;
+    }
+
+    [class$="-metro-but-16"]:hover [class^="zoc-"],
+    [class$="-metro-but-16"]:hover [class*=" zoc-"],
+    [class*="-metro-but-16"]:hover [class^="zoc-"],
+    [class*="-metro-but-16"]:hover [class*=" zoc-"] {
+        color: #fff;
+    }
+
+.fb-metro-but-16 .mask-background {
+    background-color: #3B5998;
+}
+
+.twitter-metro-but-16 .mask-background {
+    background-color: #00ACED;
+}
+
+.googleplus-metro-but-16 .mask-background {
+    background-color: #D14836;
+}
+
+.pinterest-metro-but-16 .mask-background {
+    background-color: #CB2027;
+}
+
+.youtube-metro-but-16 .mask-background {
+    background-color: #CD332D;
+}
+
+.linkedin-metro-but-16 .mask-background {
+    background-color: #007FB1;
+}
+
+.rss-metro-but-16 .mask-background {
+    background-color: #FF8300;
+}
+
+.skype-metro-but-16 .mask-background {
+    background-color: #00AFF0;
+}
+
+.wordpress-metro-but-16 .mask-background {
+    background-color: #21759B;
+}
+
+.dribble-metro-but-16 .mask-background {
+    background-color: #EA4C89;
+}
+
+.instagram-metro-but-16 .mask-background {
+    background-color: #3F729B;
+}
+
+.picasa-metro-but-16 .mask-background {
+    background-color: #4B5D5F;
+}
+
+.vimeo-metro-but-16 .mask-background {
+    background-color: #44BBFF;
+}
+
+.envato-metro-but-16 .mask-background {
+    background-color: #528036;
+}
+
+.myspace-metro-but-16 .mask-background {
+    background-color: #008DDE;
+}
+
+.github-metro-but-16 .mask-background {
+    background-color: #4183C4;
+}
+
+.outlook-metro-but-16 .mask-background {
+    background-color: #0072C6;
+}
+
+.behance-metro-but-16 .mask-background {
+    background-color: #1769FF;
+}
+
+.flattr-metro-but-16 .mask-background {
+    background-color: #F67C1A;
+}
+
+.google-metro-but-16 .mask-background {
+    background-color: #245DC1;
+}
+
+.blogger-metro-but-16 .mask-background {
+    background-color: #F57D00;
+}
+
+.reddit-metro-but-16 .mask-background {
+    background-color: #FF4500;
+}
+
+.tumblr-metro-but-16 .mask-background {
+    background-color: #2C4762;
+}
+
+.evernote-metro-but-16 .mask-background {
+    background-color: #3B5998;
+}
+
+.apple-metro-but-16 .mask-background {
+    background-color: #B9BFC1;
+}
+
+.lastfm-metro-but-16 .mask-background {
+    background-color: #D51007;
+}
+
+.stumbleupon-metro-but-16 .mask-background {
+    background-color: #EB4924;
+}
+
+.mediatemple-metro-but-16 .mask-background {
+    background-color: #000;
+}
+
+/* Part Two */
+.digg-metro-but-16 .mask-background {
+    background-color: #14589E;
+}
+
+.flickr-metro-but-16 .mask-background {
+    background-color: #0063DB;
+}
+
+.email-metro-but-16 .mask-background {
+    background-color: #333;
+}
+
+.website-metro-but-16 .mask-background {
+    background-color: #F30;
+}
+
+.delicious-metro-but-16 .mask-background {
+    background-color: #3274D1;
+}
+
+.aboutme-metro-but-16 .mask-background {
+    background-color: #00405D;
+}
+
+.bebo-metro-but-16 .mask-background {
+    background-color: #EE1010;
+}
+
+.fivehundredpx-metro-but-16 .mask-background {
+    background-color: #444444;
+}
+
+.alistapart-metro-but-16 .mask-background {
+    background-color: #222222;
+}
+
+.amazon-metro-but-16 .mask-background {
+    background-color: #FF9900;
+}
+
+.android-metro-but-16 .mask-background {
+    background-color: #A4C639;
+}
+
+.deviantart-metro-but-16 .mask-background {
+    background-color: #4B5D50;
+}
+
+.angellist-metro-but-16 .mask-background {
+    background-color: #000000;
+}
+
+.forrst-metro-but-16 .mask-background {
+    background-color: #5B9A68;
+}
+
+.soundcloud-metro-but-16 .mask-background {
+    background-color: #FF6600;
+}
+
+.appdotnet-metro-but-16 .mask-background {
+    background-color: #898D90;
+}
+
+.orkut-metro-but-16 .mask-background {
+    background-color: #ED2590;
+}
+
+.pinboard-metro-but-16 .mask-background {
+    background-color: #0000FF;
+}
+
+.newsvine-metro-but-16 .mask-background {
+    background-color: #075B2F;
+}
+
+.rdio-metro-but-16 .mask-background {
+    background-color: #006ED2;
+}
+
+.skydrive-metro-but-16 .mask-background {
+    background-color: #094AB1;
+}
+
+.stackexchange-metro-but-16 .mask-background {
+    background-color: #1F5196;
+}
+
+.twitch-metro-but-16 .mask-background {
+    background-color: #6441A5;
+}
+
+.viadeo-metro-but-16 .mask-background {
+    background-color: #F4982B;
+}
+
+.yahoo-metro-but-16 .mask-background {
+    background-color: #731A8B;
+}
+
+.yelp-metro-but-16 .mask-background {
+    background-color: #C93C27;
+}
+
+.drupal-metro-but-16 .mask-background {
+    background-color: #0077C0;
+}
+
+.ebay-metro-but-16 .mask-background {
+    background-color: #0064D2;
+}
+
+.exfm-metro-but-16 .mask-background {
+    background-color: #0097F8;
+}
+
+.geeklist-metro-but-16 .mask-background {
+    background-color: #8CC63E;
+}
+
+.heroku-metro-but-16 .mask-background {
+    background-color: #6762A6;
+}
+
+.imdb-metro-but-16 .mask-background {
+    background-color: #F3CE00;
+}
+
+.jsfiddle-metro-but-16 .mask-background {
+    background-color: #4679A4;
+}
+
+.dropbox-metro-but-16 .mask-background {
+    background-color: #2281CF;
+}
+
+.odnoklassniki-metro-but-16 .mask-background {
+    background-color: #f58220;
+}
+
+.vk-metro-but-16 .mask-background {
+    background-color: #4f7195;
+}

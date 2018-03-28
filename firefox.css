@@ -1,0 +1,52 @@
+﻿@-moz-document url-prefix() {
+body
+{
+}
+
+/*.icon-tv, .icon-library {
+    top: -3px !important;
+}*/
+
+.camera_wrap [class^="icon-"],
+.camera_wrap [class*=" icon-"],
+.meta-info [class^="icon-"],
+.meta-info [class*=" icon-"],
+.wdg-cat-opposite [class^="icon-"],
+.wdg-cat-opposite [class*=" icon-"],
+.wdg-cat-horiz-2col-sm .first-post .sec-image .top-bar [class^="icon-"],
+.wdg-cat-horiz-2col-sm .first-post .sec-image .top-bar [class*=" icon-"],
+.wdg-cat-vert .first-post .top-bar span [class^="icon-"],
+.wdg-cat-vert .first-post .top-bar span [class*=" icon-"],
+.wdg-cat-horiz-1col-sm .first-post .top-bar span [class^="icon-"],
+.wdg-cat-horiz-1col-sm .first-post .top-bar span [class*=" icon-"],
+.cat-scroll-box .top-bar span [class^="icon-"],
+.cat-scroll-box .top-bar span [class*=" icon-"],
+.article-content [class^="icon-"],
+.article-content [class*=" icon-"],
+.comments-box li.comment-main > article.comment .comment-content .time [class^="icon-"],
+.comments-box li.comment-main > article.comment .comment-content .time [class*=" icon-"] {
+    top: -2px;
+}
+
+    .social-menu .dropdown-submenu > a:after {
+        top: 3px;
+    }
+
+    .rating .stars.retina.x-2 {
+        line-height: 12px;
+    }
+
+.cat-scroll-box ul.nav-arrows li:last-child {
+    margin-left: -4px;
+}
+
+.cat-scroll-box ul.nav-arrows {
+    margin-top: -48px;
+}
+
+.blog-page .blog-items.style-1 .sec-title .post-meta-metro .popup-info > a,
+.blog-page .blog-items.style-1 .sec-title .post-meta-metro .popup-info .tags {
+    display: block;
+    padding: 13.5px 10px;
+}
+}
