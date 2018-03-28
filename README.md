@@ -4,7 +4,7 @@ My Learning is PHP based Project  where Admin Will upload a tutorial which can b
 echnology used -: PHP 7.1 PDO, MySQL <br>
 For runnig the project successfull on your local system use XAMPP 7.1 <br>
 XAMPP 7.1 is fully compatible with it <br>
-<a href="https://www.apachefriends.org/download.html"target ="_blank"> Click to download XAMPP 7.1</a>
+<a href="https://www.apachefriends.org/download.html" target="_blank"> Click to download XAMPP 7.1</a>
 Choose XAMPP according to your OS
 
 
